@@ -2,5 +2,5 @@
 
 Learning JavaScript by doing
 
-1. Hello World
+1. [Hello World](hello-world/index.js)
 2. Variables types
